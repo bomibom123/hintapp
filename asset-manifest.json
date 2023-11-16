@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hintapp/static/css/main.e6c13ad2.css",
+    "main.js": "/hintapp/static/js/main.8d24a7c6.js",
+    "static/js/787.948fe6e2.chunk.js": "/hintapp/static/js/787.948fe6e2.chunk.js",
+    "static/media/poster.jpg": "/hintapp/static/media/poster.1dedd17d2a1b939e4a82.jpg",
+    "index.html": "/hintapp/index.html",
+    "main.e6c13ad2.css.map": "/hintapp/static/css/main.e6c13ad2.css.map",
+    "main.8d24a7c6.js.map": "/hintapp/static/js/main.8d24a7c6.js.map",
+    "787.948fe6e2.chunk.js.map": "/hintapp/static/js/787.948fe6e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8d24a7c6.js"
+  ]
+}
